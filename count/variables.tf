@@ -11,6 +11,5 @@ variable "zoneid" {
 
 variable "domain_name" {
     default = "daws88.site"
-
-  
+ 
 }
